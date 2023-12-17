@@ -1,0 +1,21 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+#position .minibox, #position .minibox1 {
+  border: 2px solid #4c81ea;
+  width: 150px;
+  height: 150px;
+  background-color: #4c81ea;
+  margin: 30px;
+}
+#position .minibox h1, #position .minibox1 h1 {
+  color: #ffffff;
+  font-size: 22px;
+}
+#position .minibox1 {
+  position: fixed;
+  left: 547px;
+  bottom: 507px;
+}/*# sourceMappingURL=style.css.map */
